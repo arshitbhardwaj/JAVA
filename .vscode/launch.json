@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "binarySearchLower",
+            "request": "launch",
+            "mainClass": "binarySearchLower",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arshit",
+            "request": "launch",
+            "mainClass": "Arshit",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Frequency",
+            "request": "launch",
+            "mainClass": "Frequency",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Insert_Array",
+            "request": "launch",
+            "mainClass": "Insert_Array",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Intersection_array",
+            "request": "launch",
+            "mainClass": "Intersection_array",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Linklist",
+            "request": "launch",
+            "mainClass": "Linklist",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarraySum1",
+            "request": "launch",
+            "mainClass": "MaxSubarraySum1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Max_Element",
+            "request": "launch",
+            "mainClass": "Max_Element",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "MergeArray",
+            "request": "launch",
+            "mainClass": "MergeArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue.Queue",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "RotateRight",
+            "request": "launch",
+            "mainClass": "RotateRight",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Search_Element",
+            "request": "launch",
+            "mainClass": "Search_Element",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "SecondMax_Array",
+            "request": "launch",
+            "mainClass": "SecondMax_Array",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "ascendingArray",
+            "request": "launch",
+            "mainClass": "ascendingArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "binarySearchString",
+            "request": "launch",
+            "mainClass": "binarySearchString",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "linearSearchString",
+            "request": "launch",
+            "mainClass": "linearSearchString",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "subset",
+            "projectName": "java_5ef2cad8"
+        }
+    ]
+}
